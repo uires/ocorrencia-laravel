@@ -1,0 +1,8 @@
+header .header-class nav {
+    margin-bottom: 150px;
+}
+
+footer .footer-class {
+    margin-top: 100px;
+    background-color: rgb(47, 126, 243);
+}
